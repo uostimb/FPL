@@ -1,0 +1,1 @@
+A quick experiment with Selenium & Firefox gecko web driver to scrape freepostcodelottery.com to check if a given postcode has won, and if so use the twilio API to send an SMS notification.
