@@ -1,0 +1,8 @@
+secrets.py
+twilio_test.py
+FPL.py
+geckodriver.log
+/myvenv
+settings.py
+.idea
+/__pycache__
